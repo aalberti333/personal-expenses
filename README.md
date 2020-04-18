@@ -2,6 +2,12 @@
 
 A mobile application to manage personal expenses. A project from Maximilian Schwarzmüller's Flutter Udemy course.
 
+## Screenshots
+
+![](./screenshots/add_transaction.png)
+![](./screenshots/calendar.png)
+![](./screenshots/transaction_list.png)
+
 ## Setup
 
 Dart and Flutter will both need to be installed. Look to their docs for how to install/configure.
